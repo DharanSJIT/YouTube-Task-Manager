@@ -1,4 +1,4 @@
-import { Toaster } from '@/components/ui/sonner';
+  import { Toaster } from '@/components/ui/sonner';
 import Home from '@/pages/Home';
 
 function App() {

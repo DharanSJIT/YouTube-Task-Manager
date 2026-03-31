@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { Plus } from 'lucide-react';
+  import { Plus } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import logo from '@/assests/logo.png';
 
